@@ -3,7 +3,7 @@
 
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;C%2FC%2B%2B%2C+Python%2C+JavaScript%2C+HTML%2FCSS+Learner;Aspiring+Web+Developer+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Seefat E Rabbi+%F0%9F%91%8B;C%2FC%2B%2B%2C+Python%2C+JavaScript%2C+HTML%2FCSS+Learner;Aspiring+Web+Developer+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <!-- Badges (quick links) -->
@@ -17,10 +17,11 @@
 ---
 
 ## 👋 About Me
-- 🌱 Currently learning **C, C++, Python, JavaScript, HTML, CSS**
-- 🎯 Goal: Become a solid **Web Developer** and build useful apps
+- 👨‍🎓 B.Sc. in Computer Science and Engineering from the Southeast University
+- 🌱 Currently learning C, C++, Python, JavaScript, HTML, CSS
+- 🎯 Goal: Full stack web developer
 - 🧩 I enjoy solving problems, writing clean code & learning by doing
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **sifaterabbi20@gmail.com**
 
 ---
 
