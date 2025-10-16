@@ -46,27 +46,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Featured Projects *(Sample)*
-| Project | Tech | Description |
-|---------|------|-------------|
-| [Portfolio Website](https://github.com/your-username/portfolio) | HTML, CSS, JS | Responsive personal portfolio |
-| [Python Mini Tools](https://github.com/your-username/python-mini) | Python | Small CLI tools & automation |
-| [JS Widgets](https://github.com/your-username/js-widgets) | JavaScript | DOM manipulation & UI elements |
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Seefat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent)
-
-</div>
-
----
-
 ## 📝 Learning Goals (2025)
 - [ ] Master C/C++ basics & DSA  
 - [ ] Build 5+ small Python & JavaScript projects  
@@ -83,7 +62,4 @@
   <a href="https://www.facebook.com/share/19vmh6Euf4/">🌐 Facebook</a>
 </p>
 
----
-
-⭐ *“Code. Learn. Build. Repeat.”*
 
